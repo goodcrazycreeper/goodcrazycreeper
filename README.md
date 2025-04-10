@@ -1,4 +1,6 @@
-What the heck am I supposed to do with GitHub?
+# I am goodcrazycreeper
+
+I am learning Python and Java
 
 <!---
 goodcrazycreeper/goodcrazycreeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
