@@ -7,5 +7,5 @@ goodcrazycreeper/goodcrazycreeper is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  <img src="https://komarev.com/ghpvc/?username=goodcrazycreeper&style=flat-square&color=blue" style="height:28px" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=goodcrazycreeper&style=flat&color=blueviolet&abbreviated=true" style="height:28px" alt=""/>
 </div>
